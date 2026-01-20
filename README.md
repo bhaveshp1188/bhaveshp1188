@@ -1,21 +1,25 @@
 <h1 align="center">👋 Hi, I'm Bhavesh Patel</h1>
 
 <h3 align="center">
-🚀 Senior Full-Stack Developer | Angular • .NET Core • Node.js
+🚀 Senior Full-Stack Developer | Angular • React • Next.js • .NET Core • Node.js
 </h3>
 
 <p align="center">
 💼 8+ Years Experience • 🌍 Freelancer & Remote Developer • 🧩 Problem Solver
 </p>
 
----
+<hr/>
 
 ## 💡 About Me
 
-I’m a **Senior Full-Stack Developer with 8+ years of experience** building **scalable, secure, and high-performance web applications**.  
-I specialize in **Angular-based frontends** and **robust backend systems using .NET Core and Node.js**.
+I’m a **Senior Full-Stack Developer with 8+ years of experience** in building  
+**scalable, secure, and high-performance web applications**.
 
-I’m passionate about writing **clean, maintainable code**, following **best architectural practices**, and delivering **production-ready solutions** that solve real business problems.
+I specialize in crafting **modern frontend applications using Angular, React, and Next.js**,  
+and developing **robust backend systems with .NET Core and Node.js**.
+
+I believe in **clean architecture, reusable components, optimized performance**,  
+and delivering **production-ready solutions** that solve real-world business problems.
 
 ---
 
@@ -23,6 +27,8 @@ I’m passionate about writing **clean, maintainable code**, following **best ar
 
 ### 🎨 Frontend
 - Angular / AngularJS  
+- React.js (Hooks, Context API)  
+- Next.js (SSR, SEO Optimization)  
 - JavaScript, TypeScript  
 - HTML5, CSS3, SCSS  
 - Bootstrap, Material UI  
@@ -30,7 +36,7 @@ I’m passionate about writing **clean, maintainable code**, following **best ar
 ### ⚙️ Backend
 - .NET Core / ASP.NET Web API  
 - Node.js, Express.js  
-- RESTful API Development  
+- RESTful & Secure API Development  
 
 ### 🗄️ Databases
 - SQL Server, MySQL, PostgreSQL  
@@ -39,20 +45,23 @@ I’m passionate about writing **clean, maintainable code**, following **best ar
 ### ☁️ Cloud & Tools
 - Azure Services, AWS  
 - Git, GitHub, Bitbucket  
-- CI/CD, DevOps Practices  
+- CI/CD Pipelines  
+- Agile / Scrum Methodology  
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🔹 Freelance Full-Stack Developer (2018 – Present)
-- Successfully completed **multiple Upwork projects** with strong client feedback  
-- Designed and delivered **end-to-end SaaS and enterprise applications**  
-- Worked independently and with distributed teams  
+- Delivered **end-to-end web applications** using Angular, React, Next.js, .NET, and Node.js  
+- Built **scalable SaaS platforms** and enterprise-grade systems  
+- Integrated **payment gateways, third-party APIs, and cloud services**  
+- Maintained high client satisfaction with clean, maintainable code  
 
 ### 🔹 Senior Developer — LaNet Software Solution Pvt. Ltd. (2014 – 2018)
-- Led development using **AngularJS, React.js, .NET, and Web APIs**  
-- Contributed to architecture, performance optimization, and code quality  
+- Developed applications using **AngularJS, React.js, .NET, Node.js, and REST APIs**  
+- Worked on **system architecture, performance tuning, and code optimization**  
+- Collaborated closely with designers and backend teams  
 
 ---
 
@@ -60,24 +69,28 @@ I’m passionate about writing **clean, maintainable code**, following **best ar
 
 ### 📘 **IWriteMath Online (SaaS)**
 **Tech:** Angular 8, .NET Core API, Stripe, PSPDFKit, SendGrid  
-A digital learning platform enabling students to access math workbooks anytime, anywhere.
+A digital education platform enabling students to access math workbooks anytime.
+
+---
 
 ### 🎥 **Spotlightr**
-**Frontend:** React (Hooks)  
-**Backend:** PHP (Laravel)  
-A video marketing platform with advanced tools for business growth.  
+**Frontend:** React.js  
+**Backend:** Laravel  
+A powerful video marketing platform for business growth  
 🔗 https://spotlightr.com
+
+---
 
 ### 🏢 **Alundi – Employee Management System**
 **Tech:** AngularJS  
-Role-based employee management, document sharing, and internal chat system.  
+Role-based employee management, document sharing, and internal communication  
 🔗 https://web.alundi.eu/#/login
 
 ---
 
 ## 🎓 Education & Certifications
-- 🎓 **Master of Computer Application (MCA)**  
-- 🎓 **Bachelor’s Degree in Computer Science**  
+- 🎓 Master of Computer Application (MCA)  
+- 🎓 Bachelor’s Degree in Computer Science  
 - 🏅 IBM Certified Database Associate (DB2)  
 - 🏅 IBM Certified Deployment Professional  
 
@@ -97,5 +110,5 @@ Role-based employee management, document sharing, and internal chat system.
 ---
 
 <p align="center">
-✨ <i>“Great software is built with clarity, consistency, and care.”</i>
+✨ <i>“Great software is built with clarity, consistency, and long-term vision.”</i>
 </p>
